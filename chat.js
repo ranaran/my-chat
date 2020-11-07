@@ -6,7 +6,6 @@ CHAT.fire = {
     this.bindEvent();
   },
 
-  
   setParameters:function(){
     this.$name = $('#jsi-name');
     this.$textArea = $('#jsi-msg');
